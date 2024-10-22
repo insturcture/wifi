@@ -27,7 +27,7 @@
 		</b>
 	</div>
 </div>
-<div id="advancedbutton" onclick="adv();"> </div>
+<div id="advancedbutton" onclick="adv();">+</div>
 <div id="advanced" data-pos="down" style="border-top:3px solid white;animation-fill-mode: both;display:block;text-align:center;flex-direction: column;align-items:center;">
 	<div class="switchtext">
 		<b style="display:flex;font-size:20px;padding-right:10px;">caub - </b>
