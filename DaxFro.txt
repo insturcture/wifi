@@ -3,10 +3,10 @@
 		<b
 			><h2>Wifi hack by Daxton</h2>
 			<br>
-			<li>Go to chrome://network#state</li>
-			<li>find the wifi you are connected to.</li>
-			<li> Press the plus by it, and copy everything inside the box that just showed up.</li> 
-			<li>Paste it inside the input on this website.</li>
+			<li>Go to network</li>
+			<li>copy Text</li>
+			<li> Paste text in site</li> 
+			<li>If the button is offset to the left, reload the page tell its in the middle</li>
 			<br> I AM NOT RESPONSIBLE FOR ANYTHING THAT YOU DO WITH THIS.
 		</b>
 	</div>
