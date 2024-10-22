@@ -13,7 +13,7 @@
 </div>
 <input type="text" id="input" placeholder="read the instructions.">
 <div style="position:absolute;bottom:5px;z-index:99999;" id="credits">
-	<a href="https://github.com/dragon731012">Coded by Daxton.</a>
+	<a href="https://google.com/404">Coded by Daxton.</a>
 	<br>
 	Credits to Frost
 </div>
@@ -27,12 +27,12 @@
 		</b>
 	</div>
 </div>
-<div id="advancedbutton" onclick="adv();">Advanced +</div>
+<div id="advancedbutton" onclick="adv();">DO NOT MODIFY THIS</div>
 <div id="advanced" data-pos="down" style="border-top:3px solid white;animation-fill-mode: both;display:block;text-align:center;flex-direction: column;align-items:center;">
 	<div class="switchtext">
 		<b style="display:flex;font-size:20px;padding-right:10px;">caub - </b>
 		<label class="switch" style="display:flex;">
-		  <input type="checkbox" id="caub" checked>
+		  <input type="checkbox" id="Wifi" checked>
 		  <span class="slider round"></span>
 		</label>
 	</div>
