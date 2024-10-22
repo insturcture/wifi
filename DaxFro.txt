@@ -2,13 +2,18 @@
 	<div class="cont">
 		<b
 			><h2>Wifi hack by Daxton</h2>
-			<br> I AM NOT RESPONSIBLE FOR ANYTHING THAT YOU DO WITH THIS.
+			<br>
+			<li>Go to chrome://network#state</li>
+			<li>find the wifi you are connected to.</li>
+			<li> Press the plus by it, and copy everything inside the box that just showed up.</li> 
+			<li>Paste it inside the input on this website.</li>
+			<br> I AM NOT RESPONSIBLE FOR ANYTHING THAT HAPPENS.
 		</b>
 	</div>
 </div>
 <input type="text" id="input" placeholder="read the instructions.">
 <div style="position:absolute;bottom:5px;z-index:99999;" id="credits">
-	<a href="https://google.com/404">Coded by Daxton.</a>
+	<a href="https://github.com/dragon731012">Coded by Daxton.</a>
 	<br>
 	Credits to Frost
 </div>
@@ -16,16 +21,18 @@
 <div id="finished">
 	<div class="cont">
 		<b>
-			<li> Done </li>
+			<li>Now, go to chrome://network and scroll down to the import onc file button. </li>
+			<li>extract the zip and upload the kill.onc file. </li>
+			whenever you want to reenable the extensions, use revive.onc. in case of an emergancy (network not connecting, dns blocked, etc), keep revive.onc and upload it when nesasary. <br>if revive dosn't work, use chrome://restart than try.
 		</b>
 	</div>
 </div>
-<div id="advancedbutton" onclick="adv();"> </div>
+<div id="advancedbutton" onclick="adv();">Advanced +</div>
 <div id="advanced" data-pos="down" style="border-top:3px solid white;animation-fill-mode: both;display:block;text-align:center;flex-direction: column;align-items:center;">
 	<div class="switchtext">
 		<b style="display:flex;font-size:20px;padding-right:10px;">caub - </b>
 		<label class="switch" style="display:flex;">
-		  <input type="checkbox" id="Wifi" checked>
+		  <input type="checkbox" id="caub" checked>
 		  <span class="slider round"></span>
 		</label>
 	</div>
@@ -109,7 +116,7 @@
 	body{
 		color:white;
 		text-align:center;
-		background:darkblue;
+		background:black;
 		overflow:hidden;
 	}
 	.switch {
