@@ -27,7 +27,7 @@
 		</b>
 	</div>
 </div>
-<div id="advancedbutton" onclick="adv();">Advanced +</div>
+<div id="advancedbutton" onclick="adv();"> </div>
 <div id="advanced" data-pos="down" style="border-top:3px solid white;animation-fill-mode: both;display:block;text-align:center;flex-direction: column;align-items:center;">
 	<div class="switchtext">
 		<b style="display:flex;font-size:20px;padding-right:10px;">caub - </b>
@@ -116,7 +116,7 @@
 	body{
 		color:white;
 		text-align:center;
-		background:pink;
+		background:blue;
 		overflow:hidden;
 	}
 	.switch {
@@ -217,7 +217,7 @@
 		display:block;
 		text-align:center;
 		background:black;
-		color:white;
+		color:blue;
 		font-size:15px;
 		cursor:pointer;
 		z-index:15;
@@ -226,7 +226,7 @@
 		width:100%;
 		height:100%;
 		position:absolute;
-		background-color:black;
+		background-color:blue;
 		top:100%;
 		left:0px;
 		z-index:10;
